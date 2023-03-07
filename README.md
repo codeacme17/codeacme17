@@ -1,8 +1,7 @@
 <p align="center">
   <samp>
-    life ·
-    programme ·
-    music ·
-    film
+    life |
+    programme |
+    music
   </samp>
 </p>
