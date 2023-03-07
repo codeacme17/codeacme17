@@ -1,3 +1,7 @@
+<br />
+<br />
+<br />
+
 <p align="center">
   <samp>
     life |
@@ -5,3 +9,6 @@
     music
   </samp>
 </p>
+
+<br />
+<br />
