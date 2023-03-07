@@ -1,6 +1,4 @@
 <br />
-<br />
-<br />
 
 <p align="center">
   <samp>
