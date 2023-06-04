@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     life |
-    programme |
+    program |
     music
   </samp>
 </p>
