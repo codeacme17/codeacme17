@@ -3,8 +3,7 @@
   <samp>
     life |
     program |
-    music |
-    love
+    music
   </samp>
 </p>
 <br />
