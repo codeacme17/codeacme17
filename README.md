@@ -1,4 +1,6 @@
 <br />
+<br />
+<br />
 <p align="center">
   <samp>
     life |
@@ -7,3 +9,9 @@
   </samp>
 </p>
 <br />
+<br />
+<br />
+
+<p align="center">
+  <img height="24" src="/assets/skills.png" />
+</p>
