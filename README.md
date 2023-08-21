@@ -1,5 +1,4 @@
 <br />
-<br />
 <h4 align="center">
   <samp>
     life |
@@ -8,10 +7,10 @@
   </samp>
 </h4>
 <br />
+<br />
 
 <p align="center">
   <img height="21" src="/assets/skills.png" />
 </p>
 
-<br />
 
