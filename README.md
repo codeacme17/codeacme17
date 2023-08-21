@@ -8,9 +8,10 @@
   </samp>
 </h4>
 <br />
-<br />
-<br />
 
 <p align="center">
-  <img height="22" src="/assets/skills.png" />
+  <img height="21" src="/assets/skills.png" />
 </p>
+
+<br />
+
