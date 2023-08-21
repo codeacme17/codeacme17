@@ -1,16 +1,16 @@
 <br />
 <br />
-<h3 align="center">
+<h4 align="center">
   <samp>
     life |
     program |
     music
   </samp>
-</h3>
+</h4>
 <br />
 <br />
 <br />
 
 <p align="center">
-  <img height="23" src="/assets/skills.png" />
+  <img height="22" src="/assets/skills.png" />
 </p>
