@@ -13,5 +13,5 @@
 <br />
 
 <p align="center">
-  <img max-height="23" src="/assets/skills.png" />
+  <img height="23" src="/assets/skills.png" />
 </p>
