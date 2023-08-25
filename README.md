@@ -1,11 +1,13 @@
 <br />
-<h4 align="center">
+<p align="center">
   <samp>
-    life |
-    program |
-    music
+    <strong>
+      life |
+      program |
+      music
+    </strong>
   </samp>
-</h4>
+</p>
 <br />
 <br />
 
