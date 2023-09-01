@@ -1,8 +1,12 @@
 <br />
 <br />
 <p align="center">
-  <img height="19" src="/assets/skills.png" />
+  <samp>
+    <strong>
+      life |
+      program |
+      music
+    </strong>
+  </samp>
 </p>
 <br />
-
-
