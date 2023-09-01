@@ -13,7 +13,7 @@
 <br />
 
 <p align="center">
-  <img height="18" src="/assets/skills.png" />
+  <img height="19" src="/assets/skills.png" />
 </p>
 
 
