@@ -3,7 +3,7 @@
   <samp>
     <strong>
       life |
-      <a href="https://github.com/codeacme17">program</a> |
+      program |
       <a href="https://music.163.com/#/user/home?id=335823191">music</a>
     </strong>
   </samp>
