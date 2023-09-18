@@ -4,7 +4,7 @@
     <strong>
       life |
       program |
-      <a href="https://music.163.com/#/user/home?id=335823191">music</a>
+      music
     </strong>
   </samp>
 </p>
