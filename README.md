@@ -2,8 +2,8 @@
 <p align="center">
   <samp>
     <strong>
-      life |
-      program |
+      life /
+      program /
       music
     </strong>
   </samp>
