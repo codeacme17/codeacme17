@@ -3,7 +3,7 @@
   <samp>
     <strong>
       life /
-      program /
+      programming /
       music
     </strong>
   </samp>
