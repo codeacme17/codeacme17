@@ -3,7 +3,7 @@
 
 **I'm leyoonafr**, also can call me leo
 
-Front-end developer / Beatmaker
+Front-end developer / Beatmaker / Indie-dev
 
 Currently focusing on [breeze-tab](https://github.com/codeacme17/breeze-tab)
 
