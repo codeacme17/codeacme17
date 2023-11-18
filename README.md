@@ -1,5 +1,3 @@
-<br />
-
 **I'm leyoonafr**, also can call me leo
 
 Front-end dev / Beatmaker 
