@@ -1,6 +1,6 @@
 I'm **leyoonafr**, also can call me leo
 
-Front-end dev / Beatmaker 
+Full-stack dev / Beatmaker 
 
 <!-- Currently focusing on [echo-ui](https://github.com/codeacme17/echo-ui), and try to refactor [examor](https://github.com/codeacme17/examor) using next.js -->
 
